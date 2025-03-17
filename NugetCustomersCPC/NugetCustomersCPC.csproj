@@ -10,6 +10,7 @@
     <PackageIcon>florAmarilla.jpeg</PackageIcon>
     <PackageTags>lluvia, clientes, northwind, customers, lunes</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
